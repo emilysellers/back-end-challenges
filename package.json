@@ -4,6 +4,14 @@
     "express": "^4.14.0"
   },
   "author": "Emily Sellers",
+  "keywords": [
+    "refresher",
+    "practice",
+    "freecodecamp"
+  ],
+  "description": "refreshing backend skills",
+  "license": "MIT",
+  "version": "1.1.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
